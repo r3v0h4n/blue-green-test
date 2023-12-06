@@ -1,4 +1,4 @@
 services:
-  leads-proxy:
+  green:
     image: blue-green--green
     network_mode: host
