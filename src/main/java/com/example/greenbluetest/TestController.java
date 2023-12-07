@@ -11,7 +11,7 @@ public class TestController {
 
     @GetMapping("/")
     public ResponseEntity<String> test() {
-        return ResponseEntity.ok("v1.9");
+        return ResponseEntity.ok("v1.10");
     }
 
 }
